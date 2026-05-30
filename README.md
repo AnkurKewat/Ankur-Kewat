@@ -60,10 +60,6 @@ https://nebula-pi-mauve.vercel.app/
 
 ## 🏆 Featured Projects
 
-### RenderLens
-
-AI-powered React performance analyzer with dependency graphs, hotspot detection, auto-fix engine, and component intelligence.
-
 ### Nebula AI Workspace
 
 AI-powered development workspace focused on productivity, intelligent workflows, and modern AI integrations.
