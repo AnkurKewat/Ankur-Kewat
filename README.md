@@ -42,27 +42,11 @@ https://nebula-pi-mauve.vercel.app
 
 ---
 
-# 🧠 Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgres,python,git,github,tailwind,vercel,vscode" />
 </p>
-
-### Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-</p>
-
-### AI & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,vercel" />
-</p>
-
----
 
 # 🚀 Featured Projects
 
